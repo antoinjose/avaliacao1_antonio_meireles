@@ -3,4 +3,4 @@
 # for contador in alunos :
 #     nota=int(input(f"Digite a nota de cada {contador}:"))
 #     media=contador=+1 / alunos
-# mediageral=media 
+# mediageral=media
